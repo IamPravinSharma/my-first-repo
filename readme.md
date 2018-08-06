@@ -1,28 +1,23 @@
-# This is a large heading
+# Pravin Sharma
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Mumbai, in the state of Maharashtra, in India.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+My favorite books
 
-Here is `some code` in the middle of a sentence.
+- *Let us C* by Yashwant Kanetkar
+- *The Monk who sold his Ferrari* by Robin Sharma
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last Night I dreamt of eating in these restaurants
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Chipotle in USA.
+2. The Cheese Cake Factory in USA.
+3. Vaso Azzurro at Castro Street.
+
+### Contact
+The best way to get in touch with me is [on Twitter] (https://twitter.com/).
